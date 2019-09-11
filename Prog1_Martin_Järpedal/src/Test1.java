@@ -2,7 +2,7 @@
 
 public class Test1 {
 
-
+//hjhjhj
 	public static void main(String [] arg){
 
 	int tal1; // deklarering
