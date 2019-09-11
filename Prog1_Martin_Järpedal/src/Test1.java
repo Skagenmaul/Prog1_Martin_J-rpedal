@@ -2,7 +2,7 @@
 
 public class Test1 {
 
-hej //Hampus är en stor fet bog
+hej //Hampus ä en stor fet bog
 public static void main(String [] arg){
 
 	int tal1; // deklarering
