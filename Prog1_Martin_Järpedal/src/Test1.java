@@ -2,8 +2,8 @@
 
 public class Test1 {
 
-hej
-	public static void main(String [] arg){
+hej //Hampus är en stor fet bog
+public static void main(String [] arg){
 
 	int tal1; // deklarering
 	
